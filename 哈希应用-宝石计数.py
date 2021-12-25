@@ -41,4 +41,4 @@ for j in range(len(data2)):
 n = 0
 for t in range(len(p)):
 	n = n + p[t]
-print(data1)
+print(n)
