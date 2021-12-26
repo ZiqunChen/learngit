@@ -41,11 +41,4 @@ for j in range(len(data2)):
 n = 0
 for t in range(len(p)):
 	n = n + p[t]
-<<<<<<< Updated upstream
-print(data1)
-print(data2)
-=======
-print(n)
-print(data1)
-print(data2)
->>>>>>> Stashed changes
+
