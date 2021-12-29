@@ -43,4 +43,5 @@ for t in range(len(p)):
 	n = n + p[t]
 print(n)
 print(data1)
-
+print(data1)
+print(data1)
