@@ -51,6 +51,7 @@ print(data4)
 print(data8)
 =======
 print(data5)
+print(data6)
 
 >>>>>>> b047d4a (add data5)
 
