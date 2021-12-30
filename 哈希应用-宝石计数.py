@@ -47,11 +47,5 @@ print(data1)
 print(data1)
 print(data3)
 print(data4)
-<<<<<<< HEAD
 print(data8)
-=======
-print(data5)
-print(data6)
-
->>>>>>> b047d4a (add data5)
 
